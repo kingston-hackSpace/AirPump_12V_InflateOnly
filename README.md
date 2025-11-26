@@ -25,9 +25,9 @@ WARNING!
 
 ----
 ### WIRING
-MOSFET Pins - Reference image [here](pending)
+MOSFET Pins - Reference image [here](https://github.com/kingston-hackSpace/AirPump_12V_InflateOnly/blob/main/MOSFET_IRLZ44N.jpg)
 
-DIODE polarity - Reference image [here](pending)
+DIODE polarity - Reference image [here](https://github.com/kingston-hackSpace/AirPump_12V_InflateOnly/blob/main/Diode_1N4007.png)
 
 Wiring diagram - Reference image [here](pending)
 
