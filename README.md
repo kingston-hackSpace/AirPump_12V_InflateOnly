@@ -25,7 +25,9 @@ WARNING!
 
 ----
 ### WIRING
-Reference image [here](pending)
+MOSFET Pins [here](pending)
+
+Wiring reference image [here](pending)
 
 ----
 ### CODE
