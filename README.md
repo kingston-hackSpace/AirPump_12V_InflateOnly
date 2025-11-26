@@ -29,7 +29,7 @@ MOSFET Pins - Reference image [here](https://github.com/kingston-hackSpace/AirPu
 
 DIODE polarity - Reference image [here](https://github.com/kingston-hackSpace/AirPump_12V_InflateOnly/blob/main/Diode_1N4007.png)
 
-Wiring diagram - Reference image [here](pending)
+Wiring diagram - Reference image [here](https://github.com/kingston-hackSpace/AirPump_12V_InflateOnly/blob/main/AirPump_12V_InflateOnly.jpg)
 
 ----
 ### CODE
