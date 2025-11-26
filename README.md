@@ -34,7 +34,7 @@ Wiring diagram - Reference image [here](pending)
 ----
 ### CODE
 
-Download code [here](pending)
+Download code [here](https://github.com/kingston-hackSpace/AirPump_12V_InflateOnly/blob/main/AirPump12V_InflateOnly.ino)
 
 ---
 ### UNDERSTANDING MOSFET CONTROL
