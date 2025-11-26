@@ -25,9 +25,11 @@ WARNING!
 
 ----
 ### WIRING
-MOSFET Pins [here](pending)
+MOSFET Pins - Reference image [here](pending)
 
-Wiring reference image [here](pending)
+DIODE polarity - Reference image [here](pending)
+
+Wiring diagram - Reference image [here](pending)
 
 ----
 ### CODE
