@@ -1,7 +1,5 @@
 # AirPump12V - Inflate Only
 
-### DESCRIPTION
-
 In this tutorial we will cover how to use a **12V Air Pump** to inflate small-scale projects.
 
 WARNING!
@@ -9,6 +7,9 @@ WARNING!
 - These pumps ***CANNOT be used to pump water!!***
 
 - *For inflate/deflate control, please see the tutorial: AirPump_5V_InflateDeflate(upcoming)*
+
+----
+# TUTORIAL
 
 ----
 ### HARDWARE
